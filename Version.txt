@@ -1,1 +1,1 @@
-Last Version PedaretBullet : 1.1.0
+Last Version PedaretBullet : 2.0.0
